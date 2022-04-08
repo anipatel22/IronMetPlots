@@ -1,2 +1,2 @@
-# met-plotter
-This repository contains a python file that can be used to make high quality plots for iron meteorites in element vs. element space (ex. Ge (ppm) vs Ni (wt%) ). It already has data inputted for many iron groups, including ungrouped irons, and I expect more groups to be added. Currently, it only has data for Ge, Ga, and Ni. However, I expect to add more elements as well, including HSEs. This program is particularly useful if one wants to plot a new meteorite sample and see how it compares to already established iron groups or ungrouped irons.
+# IronMetPlot
+This repository contains data (excel sheets) for iron metoerites and correpsonding codes to plot the data. More info coming soon.
